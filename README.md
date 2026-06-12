@@ -1,16 +1,27 @@
 # ndaju
 
-Developer building tools, mods, and utilities for the Roblox ecosystem.
+developer focused on the roblox ecosystem. i make tools, mods, and utilities that improve how the game runs and feels.
 
-## Featured Project
+---
 
-### [Rystrap](https://github.com/ndaju/Rystrap)
+## [Rystrap](https://github.com/ndaju/Rystrap)
 
-A third-party Roblox bootstrapper with Discord Rich Presence, content modding, plugin system, theme engine, FastFlag editor, multi-account manager, and more. Actively maintained with weekly updates.
+roblox bootstrapper replacement with:
+- discord rich presence
+- content modding (sounds, textures, cursors, fonts)
+- plugin system (.dll)
+- theme engine (6 themes + custom)
+- fastflag editor
+- multi-account manager
+- server location display
+- 30+ languages
+- weekly updates
 
-**If you find Rystrap useful, please [star the repo](https://github.com/ndaju/Rystrap)!**
+> [star Rystrap on GitHub](https://github.com/ndaju/Rystrap) if you use it
 
-## Languages & Tools
+---
+
+**languages:** python, lua, c#, c++, c, rust, java, javascript, .net
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
@@ -22,10 +33,6 @@ A third-party Roblox bootstrapper with Discord Rich Presence, content modding, p
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-## GitHub Stats
+---
 
-![ndaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndaju&show_icons=true&theme=dark)
-
-## Contact
-
-- GitHub: [@ndaju](https://github.com/ndaju)
+![stats](https://github-readme-stats.vercel.app/api?username=ndaju&show_icons=true&theme=dark)
