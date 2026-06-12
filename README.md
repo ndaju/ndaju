@@ -1,6 +1,6 @@
 # ndaju
 
-developer focused on the roblox ecosystem. i make tools, mods, and utilities that improve how the game runs and feels.
+developer yes
 
 ---
 
