@@ -17,6 +17,8 @@ roblox bootstrapper replacement with:
 - 30+ languages
 - weekly updates
 
+built with [wpfui](https://github.com/lepoco/wpfui) for the interface
+
 > [star Rystrap on GitHub](https://github.com/ndaju/Rystrap) if you use it
 
 ---
