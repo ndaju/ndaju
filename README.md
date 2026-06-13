@@ -23,6 +23,14 @@ built with [wpfui](https://github.com/lepoco/wpfui) for the interface cuz i love
 
 ---
 
+## [OpenVerify](https://github.com/ndaju/OpenVerify)
+
+open-source discord verification & backup oauth2 bot system
+
+> [star OpenVerify on GitHub](https://github.com/ndaju/OpenVerify)
+
+---
+
 **languages:** python, lua, c#, c++, c, rust, java, javascript, .net
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
