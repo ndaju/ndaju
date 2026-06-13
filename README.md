@@ -1,6 +1,6 @@
 # ndaju
 
-a femboy fuckable developer yes
+a fuckable femboy developer yes
 
 ---
 
