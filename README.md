@@ -2,34 +2,7 @@
 
 a fuckable femboy developer yes
 
----
 
-## [Rystrap](https://github.com/ndaju/Rystrap)
-
-roblox bootstrapper replacement with:
-- discord rich presence
-- content modding (sounds, textures, cursors, fonts)
-- plugin system (.dll)
-- theme engine (6 themes + custom)
-- fastflag editor
-- multi-account manager
-- server location display
-- 30+ languages
-- weekly updates
-
-built with [wpfui](https://github.com/lepoco/wpfui) for the interface cuz i love it
-
-> [star Rystrap on GitHub](https://github.com/ndaju/Rystrap) if you use it
-
----
-
-## [OpenVerify](https://github.com/ndaju/OpenVerify)
-
-open-source discord verification & backup oauth2 bot system
-
-> [star OpenVerify on GitHub](https://github.com/ndaju/OpenVerify)
-
----
 
 **languages:** python, lua, c#, c++, c, rust, java, javascript, .net
 
