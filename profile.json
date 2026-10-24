@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "ndaju",
-  "seed": "#C1999D",
+  "seed": "#BCABAE",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -110,9 +110,14 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "IPABuilder"
+      "IPABuilder",
+      "FluentZip"
     ],
-    "overrides": {},
+    "overrides": {
+      "FluentZip": {
+        "text": "A WinUI of 7ZIP"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },

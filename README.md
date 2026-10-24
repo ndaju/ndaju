@@ -6,7 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ndaju/IPABuilder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ipabuilder-dark.svg"><img src="assets/project-ipabuilder-light.svg" width="49%" alt="IPABuilder"></picture></a>
+<a href="https://github.com/ndaju/IPABuilder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ipabuilder-dark.svg"><img src="assets/project-ipabuilder-light.svg" width="49%" alt="IPABuilder"></picture></a>&nbsp;<a href="https://github.com/ndaju/FluentZip"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fluentzip-dark.svg"><img src="assets/project-fluentzip-light.svg" width="49%" alt="FluentZip"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
