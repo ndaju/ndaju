@@ -1,37 +1,37 @@
 {
- "key": "415c0bfa",
+ "key": "6f5de02",
  "stars": 3,
- "contributions": 177,
- "repos": 29,
+ "contributions": 170,
+ "repos": 28,
  "followers": 1,
  "languages": [
   [
-   "Rust",
-   11581699
-  ],
-  [
    "C#",
-   8373934
-  ],
-  [
-   "Kotlin",
-   2815398
-  ],
-  [
-   "Swift",
-   2627174
-  ],
-  [
-   "TypeScript",
-   722756
-  ],
-  [
-   "Python",
-   702618
+   4577346
   ],
   [
    "JavaScript",
    361874
+  ],
+  [
+   "TypeScript",
+   240469
+  ],
+  [
+   "Lua",
+   215427
+  ],
+  [
+   "CSS",
+   58722
+  ],
+  [
+   "Swift",
+   24681
+  ],
+  [
+   "Python",
+   24179
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 7,
+    "c": 0,
     "day": 13,
     "today": false
    },
@@ -148,7 +148,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 3
  },
  "pins": [
@@ -206,15 +206,6 @@
    "fork": false,
    "stars": 1,
    "language": "C#",
-   "topics": []
-  },
-  {
-   "name": "AliMail",
-   "url": "https://github.com/ndaju/AliMail",
-   "text": "AliMail: a mail-only, rebranded Apple client built from the mail-calendar source",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
    "topics": []
   },
   {
