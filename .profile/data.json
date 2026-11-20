@@ -1,5 +1,5 @@
 {
- "key": "cc232e38",
+ "key": "72418ce2",
  "stars": 4,
  "contributions": 166,
  "repos": 29,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
